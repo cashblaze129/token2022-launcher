@@ -1,4 +1,4 @@
-# 🚀 Token 2022 Launcher
+# 🚀 Token 2022 Launcher ( Version 2 is Coming Soon ! )
 
 > Create professional Solana tokens in minutes with enterprise-grade security and performance.
 
@@ -37,7 +37,7 @@ Attract investors and enterprise clients with built-in tokenomics features inclu
 
 ### Prerequisites
 ```bash
-✓ Node.js v16+
+✓ Node.js 20+
 ✓ Yarn
 ✓ Solana CLI
 ✓ Funded Solana wallet
@@ -105,6 +105,3 @@ Join our community of developers! We're actively seeking contributions in:
 [Get Started](#quick-start) • [Documentation](docs/) • [Enterprise Solutions](enterprise/)
 
 </div>
-
-
-## Version 2 is Comiming!!!
