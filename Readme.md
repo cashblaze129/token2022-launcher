@@ -1,4 +1,4 @@
-# Bags.fm Trading Using Rust
+# Bags.fm Trading Using Rust ( Sniper, Copy Trading, Bundler )
 
 - **🎯 Version 1 - Bags.fm Sniper bot using Rust on 0 blocks (if you want in the same block or 1 block, kindly inform me)**
 - **🚀 Copy Trading, Bundler, Sniper Bot, ( Laser Stream, Bags.fm Launch Pad Integration )**
